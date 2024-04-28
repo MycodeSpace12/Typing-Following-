@@ -1,0 +1,10 @@
+C:\Users\youssef\Desktop\TypingFollower-master\bin\Debug\TypingGame.exe.config
+C:\Users\youssef\Desktop\TypingFollower-master\bin\Debug\TypingGame.exe
+C:\Users\youssef\Desktop\TypingFollower-master\bin\Debug\TypingGame.pdb
+C:\Users\youssef\Desktop\TypingFollower-master\obj\Debug\TypingFollower.csproj.AssemblyReference.cache
+C:\Users\youssef\Desktop\TypingFollower-master\obj\Debug\TypingGame.frmMain.resources
+C:\Users\youssef\Desktop\TypingFollower-master\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Users\youssef\Desktop\TypingFollower-master\obj\Debug\TypingFollower.csproj.GenerateResource.cache
+C:\Users\youssef\Desktop\TypingFollower-master\obj\Debug\TypingFollower.csproj.CoreCompileInputs.cache
+C:\Users\youssef\Desktop\TypingFollower-master\obj\Debug\TypingGame.exe
+C:\Users\youssef\Desktop\TypingFollower-master\obj\Debug\TypingGame.pdb
